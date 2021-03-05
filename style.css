@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size:40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: #006eff;
+}
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: #00ff04;
+}
+#chatbot{
+     width: 100%;
+    height: 800px;
+    background-color: #00f7ff;
+}
+img{
+    transition:tranform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.line{
+    height: 6px;
+    background-color: #ff75ef;
+    width: 70px;
+    margin: 8px auto;
+}
+#app{
+    width: 100%;
+    height: 800px;
+    
+}
+.container{
+    text-align: center;
+}
+#myCarousel{
+    background-color: darkviolet;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
